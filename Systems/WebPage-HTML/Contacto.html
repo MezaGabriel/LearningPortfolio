@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Company Contact</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .Titulo{
+                background-color:  red;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                padding-left: 5px;
+                color: white;
+            }
+            .Abajo{
+                text-align: right;
+            }
+            
+            .Autor{
+                text-align: center;
+                font-size: 12px;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="Titulo">
+            <img src="../../../../Downloads/company.png" alt=""/>
+            Company
+        </div>
+        <div>
+            <form method="post">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <label for="nombreYapellido">Nombre y Apellido (Obligatorio)</label><br>
+                                <input type="text" name="nombreYapellido" id="nombreYapellido">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="telefono">Telefono</label><br>
+                                <input type="number" name="telefono" id="telefono">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="email">Email (Obligatorio)</label><br>
+                                <input type="text" name="email" id="email">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="motivo">Motivo del contacto (Obligatorio)</label><br>
+                                <input type="text" name="motivo" id="motivo">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button type="submit">Enviar</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </form>
+        </div>
+        <br><br>
+        <div class="Abajo">
+            <a href="Index.html">
+            Regresar al inicio
+            </a>
+        </div>
+        <br><br><br>
+        <div class="Autor">
+            Meza Gabriel Esteban<br>
+           
+            2021<br>
+        </div>
+    </body>
+</html>
