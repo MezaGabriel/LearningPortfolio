@@ -20,7 +20,7 @@ public class DBCon {
         Connection conexion = null;
        
         try{
-            conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/Registro", "root", "Jorgito0204");
+            conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/Registro", "root", "**********");
             System.out.println("Conectado");
         }
         catch(Exception e){
