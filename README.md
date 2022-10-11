@@ -1,16 +1,21 @@
 Hi 👋, I'm Gabriel
-A passionate full stack developer from Argentina
-🔭 I’m currently working on Java-APIrest
+A passionate Mobile developer from Argentina
+🔭 I’m currently working on Cloud Services
 
-📫 How to reach me mez4.gabriel@gmail.com
+📫 How to reach me:
+mez4.gabriel@gmail.com
 
 🚀
 
-Hola soy Gabriel Esteban Meza de argentina, soy una persona apasionada y autodidacta, en el mundo it me interesa el Back-end ya que me gusta el diseño y las conexiones que proveen librerias como Maven, Gradle y su forma de trabajar,Actualemnte trabajando en un proyecto en Java-ApiRest, me gusta desafiarme y ampliar mis conocimientos de programacion
+Hello, I'm Gabriel Esteban Meza from Argentina, I'm a passionate and self-taught person, in the IT world I'm interested in Mobile development since I like the design and connections provided by libraries such as Maven, Gradle and their way of working, Currently working in a project in Microservices, I like to challenge myself and expand my programming knowledge
+
 🚀
+
+Recents Projects:
+https://github.com/MezaGabriel/JavaSQLite-Build.1.0.0 (DM me for the Firebase Version)
 
 Connect with me:
 www.linkedin.com/in/gabriel-esteban-meza-b0b175204
 
 Languages and Tools:
-java spring springboot git maven gradle javascript mysql nodejs postgresql react 
+java spring springboot git maven gradle javascript mysql android postgresql react kotlin flutter dart sqlite firebase
